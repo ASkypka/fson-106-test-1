@@ -1,3 +1,8 @@
 .header .conteiner {
     width: 1000px;
+}   
+
+header a{
+    color: red;
+    font-weight: 500;
 }
